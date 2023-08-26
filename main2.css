@@ -1,0 +1,93 @@
+.btn-peach5{
+    border-radius: 50px;
+    background: linear-gradient(45deg, orange,darkorange, coral,orangered);
+    color: white;
+}
+.btn-purple5{
+    border-radius: 50px;
+    background: linear-gradient(45deg,plum,pink,palevioletred,mediumpurple,purple);
+    color: white;
+}
+.btn-blue5{
+    border-radius: 50px;
+    background: linear-gradient(45deg,lightskyblue, #80bdff,#007bff,#0056b3,blue);
+    color: white;
+}
+.btn-aqua5{
+    border-radius: 50px;
+    background: linear-gradient(45deg,#007bff,#007bff,lightseagreen,mediumseagreen,seagreen);
+    color: white;
+}
+
+/*.btn-primary6{
+    border-radius: 50px;
+   !* background-color: #0056b3;*!
+    border-color: #0056b3;
+    color: #0056b3;
+}
+.btn-default6{
+    border-radius: 50px;
+    background-color: #20c997;
+    color: white;
+}
+.btn-secondary6{
+    border-radius: 50px;
+    background-color: purple;
+    color: white;
+}
+.btn-success6{
+    border-radius: 50px;
+    background-color: #28a745;
+    color: white;
+}
+.btn-info6{
+    border-radius: 50px;
+    background-color: #007bff;
+    color: white;
+}
+.btn-warning6{
+    border-radius: 50px;
+    background-color: #ffc107;
+    color: white;
+}
+.btn-danger6{
+    border-radius: 50px;
+    background-color: #c82333;
+    color: white;
+}*/
+
+.btn-primary5{
+    border-radius: 50px;
+    background-color: #0056b3;
+    color: white;
+}
+.btn-default5{
+    border-radius: 50px;
+    background-color: #20c997;
+    color: white;
+}
+.btn-secondary5{
+    border-radius: 50px;
+    background-color: purple;
+    color: white;
+}
+.btn-success5{
+    border-radius: 50px;
+    background-color: #28a745;
+    color: white;
+}
+.btn-info5{
+    border-radius: 50px;
+    background-color: #007bff;
+    color: white;
+}
+.btn-warning5{
+    border-radius: 50px;
+    background-color: #ffc107;
+    color: white;
+}
+.btn-danger5{
+    border-radius: 50px;
+    background-color: #c82333;
+    color: white;
+}

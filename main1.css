@@ -1,0 +1,33 @@
+body{
+    width: 1200px;
+    background-color: #ffe8a1;
+}
+.container{
+    width: 900px;
+}
+.btn-danger5{
+    border-radius: 50px;
+    background-color:#dc3545;
+    color: white;
+}
+.btn-success5{
+    border-radius: 50px;
+    background-color: #28a745;
+    color: white;
+}
+.btn-info5{
+    border-radius: 50px;
+    background-color: #17a2b8;
+    color: white;
+}
+.btn-warning5{
+    border-radius: 50px;
+    background-color: orange;
+    color: white;
+}
+.btn-danger5{
+    border-radius: 50px;
+    background-color: #c82333;
+    color: white;
+}
+
